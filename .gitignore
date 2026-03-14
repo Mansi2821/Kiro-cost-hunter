@@ -1,0 +1,6 @@
+lambda_deploy.zip 
+lambda_package\ 
+output.json 
+test_response.json 
+__pycache__\ 
+*.pyc 
